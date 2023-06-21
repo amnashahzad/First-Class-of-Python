@@ -65,25 +65,6 @@
 # print("S" in name)
 # print("s" in name)
 
-                                                     # Arithmetic Operators
-
-# + - / * % ( # this is  Operators
-
-
-print(5 + 2)
-print(5 - 2)
-print(5 * 2)
-print(5 / 2)
-print( 5 // 2)
-print(5 % 2)
-print(5 ** 2)
-i = 5
-i = i + 2
-i += 2
-i -= 2
-i *= 2
-
-
 
 
 
